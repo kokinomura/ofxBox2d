@@ -1,7 +1,7 @@
 //
 //  ofxBox2dBody.cpp
 //
-//  Created by nomura on 2014/02/25.
+//  Created by Koki Nomura on 2014/02/25.
 //
 
 //  This currently supports only dynamicBody

@@ -3,6 +3,7 @@
 #include "ofxBox2dUtils.h"
 #include "ofxBox2dPolygonUtils.h"
 #include "ofxBox2dBaseShape.h"
+#include "ofxBox2dBody.h"
 
 #include "ofxBox2dCircle.h"
 #include "ofxBox2dPolygon.h"
